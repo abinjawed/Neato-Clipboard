@@ -1,4 +1,4 @@
-<!--timestamp of copy events-->
+//timestamp of copy events
 
 console.logCopy = console.log.bind(console);
 
