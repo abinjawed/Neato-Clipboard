@@ -2,7 +2,7 @@
 Neato! is a clipboard that stores frequently used lines of text, which can be copied on click and pasted as desired to any text field.
 
 Also, for record-keeping purposes, each on-click activity is logged into the console. 
-**NOTE Please see further information under** ###Data
+**NOTE Please see further information under Data**
 
 
 ### Install
@@ -21,7 +21,7 @@ This clipboard is essentially an dropdown button in `index.html` that expands on
 
 The `script.js` file allows for on-click copy. Another feature (optional) is the static nature of the text field allows for text 
 edit and modification.
-**NOTE: Please see further information under** ###Data
+**NOTE: Please see further information under Data**
 
 The `manifest.json` file is absolutely essential for this extension to be uploaded.
 
