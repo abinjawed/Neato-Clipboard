@@ -32,4 +32,5 @@ This can be downloaded as a Google Chrome extension.
 
 ### Data
 -The **on-click copy activites** are only stored in console log during session in which clipboard is opened.
+
 -Any editing in the **text fields** will only be stored during session in which clipboard is opened.
