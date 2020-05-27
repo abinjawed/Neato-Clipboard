@@ -9,6 +9,7 @@ console.log = function(data)
 };
 
 
+//copy text in each field
 document.getElementById("copytext1").onclick = function() {
     this.select();
     document.execCommand('copy');
