@@ -1,8 +1,9 @@
 # Neato-Clipboard
 Neato! is a clipboard that stores frequently used lines of text, which can be copied on click and pasted as desired to any text field.
 
-Also, for record-keeping purposes, each on-click activity is logged into the console. 
-**NOTE Please see further information under Data**
+Also, for record-keeping purposes, each on-click activity is logged into the console.
+
+**NOTE: Please see further information regarding on-click activities under Data**
 
 
 ### Install
@@ -21,7 +22,8 @@ This clipboard is essentially an dropdown button in `index.html` that expands on
 
 The `script.js` file allows for on-click copy. Another feature (optional) is the static nature of the text field allows for text 
 edit and modification.
-**NOTE: Please see further information under Data**
+
+**NOTE: Please see further information regarding on-click copy commands under Data**
 
 The `manifest.json` file is absolutely essential for this extension to be uploaded.
 
@@ -29,5 +31,5 @@ The `manifest.json` file is absolutely essential for this extension to be upload
 This can be downloaded as a Google Chrome extension.
 
 ### Data
-The **logged activites** are only stored during each session while clipboard is opened.
-Any editing in the **text fields** will only be stored during each session while clipboard is opened.
+-The **on-click copy activites** are only stored in console log during session in which clipboard is opened.
+-Any editing in the **text fields** will only be stored during session in which clipboard is opened.
