@@ -7,9 +7,9 @@ Also, for record-keeping purposes, each on-click activity is logged into the con
 
 
 ### Install
-Step One: Download the files from this repository into a folder: https://github.com/abinjawed/Neato-Clipboard
+Download: This app is available as an extension from the Google Chrome Web Store: https://chrome.google.com/webstore/detail/neato-clipboard/dfhidhfdpccgfleomfleacpoplcjmihm
 
-Step Two: In a Google Chrome browser, navigate to: 
+Upload: To publish your own Chrome Extension, Open a Google Chrome browser and navigate to: 
                                         The Ellipsis (aka, the 3-dot button) 
                                           > Select "More Tools" 
                                             > Extensions 
@@ -23,7 +23,7 @@ This clipboard is essentially an dropdown button in `index.html` that expands on
 The `script.js` file allows for on-click copy. Another feature (optional) is the static nature of the text field allows for text 
 edit and modification.
 
-**NOTE: Please see further information regarding on-click copy commands under Data**
+**NOTE:** Please see further information regarding on-click copy commands under Data
 
 The `manifest.json` file is absolutely essential for this extension to be uploaded.
 
