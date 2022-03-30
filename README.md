@@ -7,7 +7,7 @@ Also, for record-keeping purposes, each on-click activity is logged into the con
 
 
 ### Install
-Download: This app is available as an extension from the Google Chrome Web Store: https://chrome.google.com/webstore/detail/neato-clipboard/dfhidhfdpccgfleomfleacpoplcjmihm
+Download: This app is available as an extension from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/neato-clipboard/dfhidhfdpccgfleomfleacpoplcjmihm).
 
 Upload: To publish your own Chrome Extension, Open a Google Chrome browser and navigate to: 
                                         The Ellipsis (aka, the 3-dot button) 
